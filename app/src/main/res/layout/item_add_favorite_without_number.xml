@@ -41,7 +41,7 @@
             android:textSize="@dimen/big_text_size"
             tools:text="John Doe" />
 
-        <com.simplemobiletools.commons.views.MyAppCompatCheckbox
+        <com.ncautomation.commons.views.MyAppCompatCheckbox
             android:id="@+id/contact_checkbox"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
